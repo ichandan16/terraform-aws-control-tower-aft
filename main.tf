@@ -1,6 +1,3 @@
-# Copyright (c) HashiCorp, Inc.
-# SPDX-License-Identifier: MPL-2.0
-
 module "aft" {
   source = "github.com/aws-ia/terraform-aws-control_tower_account_factory"
   ct_management_account_id    = var.ct_management_account_id

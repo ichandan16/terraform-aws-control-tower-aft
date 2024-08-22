@@ -1,5 +1,3 @@
-# Copyright (c) HashiCorp, Inc.
-# SPDX-License-Identifier: MPL-2.0
 
 variable "ct_management_account_id" {}
 
